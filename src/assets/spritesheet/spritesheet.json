@@ -1,0 +1,4035 @@
+{
+	"frames": {
+		"180.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 180,
+				"h": 180
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 180,
+				"h": 180
+			},
+			"sourceSize": {
+				"w": 180,
+				"h": 180
+			}
+		},
+		"ACTIVE.png": {
+			"frame": {
+				"x": 183,
+				"y": 1,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"ALLONCE_OCCUPIED.png": {
+			"frame": {
+				"x": 230,
+				"y": 1,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"AMZN_FRESH_PANTRY.png": {
+			"frame": {
+				"x": 277,
+				"y": 1,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			}
+		},
+		"AMZN_FULL_CTR.png": {
+			"frame": {
+				"x": 339,
+				"y": 1,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			}
+		},
+		"AMZN_GO.png": {
+			"frame": {
+				"x": 401,
+				"y": 1,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			}
+		},
+		"AMZN_PRIME_HUB.png": {
+			"frame": {
+				"x": 463,
+				"y": 1,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			}
+		},
+		"AMZN_WHOLE_FOOD.png": {
+			"frame": {
+				"x": 525,
+				"y": 1,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			}
+		},
+		"AP.png": {
+			"frame": {
+				"x": 587,
+				"y": 1,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"APPARELSTORES.png": {
+			"frame": {
+				"x": 646,
+				"y": 1,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"APPLOG.png": {
+			"frame": {
+				"x": 587,
+				"y": 60,
+				"w": 357,
+				"h": 324
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 357,
+				"h": 324
+			},
+			"sourceSize": {
+				"w": 357,
+				"h": 324
+			}
+		},
+		"APPROVED.png": {
+			"frame": {
+				"x": 705,
+				"y": 1,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"APPROVEDFUEL_SAM.png": {
+			"frame": {
+				"x": 752,
+				"y": 1,
+				"w": 19,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 20
+			}
+		},
+		"APPROVEDFUEL_SUP.png": {
+			"frame": {
+				"x": 773,
+				"y": 1,
+				"w": 20,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 22
+			}
+		},
+		"APPROVEDFUEL_WM.png": {
+			"frame": {
+				"x": 795,
+				"y": 1,
+				"w": 19,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 20
+			}
+		},
+		"APPROVEDFUEL_WNM.png": {
+			"frame": {
+				"x": 816,
+				"y": 1,
+				"w": 19,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 20
+			}
+		},
+		"AUTOMOTIVE.png": {
+			"frame": {
+				"x": 837,
+				"y": 1,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"BUG_MAIN.png": {
+			"frame": {
+				"x": 1,
+				"y": 386,
+				"w": 84,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 84,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 84,
+				"h": 90
+			}
+		},
+		"BUILDUP_CIRCLES_OFF.png": {
+			"frame": {
+				"x": 87,
+				"y": 386,
+				"w": 129,
+				"h": 129
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 129,
+				"h": 129
+			},
+			"sourceSize": {
+				"w": 129,
+				"h": 129
+			}
+		},
+		"BUILDUP_CIRCLES_ON.png": {
+			"frame": {
+				"x": 218,
+				"y": 386,
+				"w": 120,
+				"h": 126
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 126
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 126
+			}
+		},
+		"BWL.png": {
+			"frame": {
+				"x": 896,
+				"y": 1,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"CLUB.png": {
+			"frame": {
+				"x": 183,
+				"y": 60,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"COM.png": {
+			"frame": {
+				"x": 955,
+				"y": 1,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"COMP.png": {
+			"frame": {
+				"x": 242,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"CONV.png": {
+			"frame": {
+				"x": 301,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"CONVENIENCE.png": {
+			"frame": {
+				"x": 360,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"DARK_PINK_CRIME.png": {
+			"frame": {
+				"x": 419,
+				"y": 63,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"DELIVERYOPEN.png": {
+			"frame": {
+				"x": 340,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYOPEN_SUP.png": {
+			"frame": {
+				"x": 444,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYOPEN_WM.png": {
+			"frame": {
+				"x": 548,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYOPEN_WNM.png": {
+			"frame": {
+				"x": 652,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYPLANNED.png": {
+			"frame": {
+				"x": 756,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYPLANNED_SUP.png": {
+			"frame": {
+				"x": 860,
+				"y": 386,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYPLANNED_WM.png": {
+			"frame": {
+				"x": 340,
+				"y": 490,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DELIVERYPLANNED_WNM.png": {
+			"frame": {
+				"x": 444,
+				"y": 490,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"DEPARTMENT_STORES.png": {
+			"frame": {
+				"x": 466,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"DEPT.png": {
+			"frame": {
+				"x": 525,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"DMM.png": {
+			"frame": {
+				"x": 946,
+				"y": 63,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"DROP_YARD.png": {
+			"frame": {
+				"x": 183,
+				"y": 122,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"DRUG_STORES.png": {
+			"frame": {
+				"x": 230,
+				"y": 122,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"ELEC.png": {
+			"frame": {
+				"x": 289,
+				"y": 122,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"ELECTRONICS_AND_COMP.png": {
+			"frame": {
+				"x": 348,
+				"y": 122,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"EXPIRED.png": {
+			"frame": {
+				"x": 407,
+				"y": 122,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"FASION_DC.png": {
+			"frame": {
+				"x": 454,
+				"y": 122,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"FDC.png": {
+			"frame": {
+				"x": 501,
+				"y": 122,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"FILTER_OFF.png": {
+			"frame": {
+				"x": 548,
+				"y": 490,
+				"w": 111,
+				"h": 87
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 111,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 111,
+				"h": 87
+			}
+		},
+		"FILTER_ON.png": {
+			"frame": {
+				"x": 661,
+				"y": 490,
+				"w": 102,
+				"h": 87
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 87
+			}
+		},
+		"FUTURE_DEVELOPMENT.png": {
+			"frame": {
+				"x": 946,
+				"y": 122,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"GPS_FIXED.png": {
+			"frame": {
+				"x": 1,
+				"y": 490,
+				"w": 66,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 66
+			}
+		},
+		"GREEN_CRIME.png": {
+			"frame": {
+				"x": 1,
+				"y": 184,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"HOME_IMPROV.png": {
+			"frame": {
+				"x": 48,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"HVDC.png": {
+			"frame": {
+				"x": 107,
+				"y": 184,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"HW.png": {
+			"frame": {
+				"x": 154,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"IDEAS.png": {
+			"frame": {
+				"x": 213,
+				"y": 184,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"JEWELERY.png": {
+			"frame": {
+				"x": 260,
+				"y": 184,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"LABEL_OFF.png": {
+			"frame": {
+				"x": 765,
+				"y": 490,
+				"w": 108,
+				"h": 87
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 108,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 108,
+				"h": 87
+			}
+		},
+		"LABEL_ON.png": {
+			"frame": {
+				"x": 875,
+				"y": 490,
+				"w": 96,
+				"h": 87
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 87
+			}
+		},
+		"LIQUOR_STORES.png": {
+			"frame": {
+				"x": 307,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"LOCATION_MARKER.png": {
+			"frame": {
+				"x": 366,
+				"y": 184,
+				"w": 42,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 42,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 42,
+				"h": 60
+			}
+		},
+		"MAJOR_GROCERS.png": {
+			"frame": {
+				"x": 410,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"MAPVIEW.png": {
+			"frame": {
+				"x": 469,
+				"y": 184,
+				"w": 42,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 42,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 42,
+				"h": 60
+			}
+		},
+		"MAP_PIN.png": {
+			"frame": {
+				"x": 548,
+				"y": 122,
+				"w": 24,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 32
+			}
+		},
+		"MISC.png": {
+			"frame": {
+				"x": 513,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"NON_MAJOR_GROCERS.png": {
+			"frame": {
+				"x": 946,
+				"y": 184,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"OFFC_SPPLY.png": {
+			"frame": {
+				"x": 1,
+				"y": 243,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"OFFICE_SUPPLY.png": {
+			"frame": {
+				"x": 154,
+				"y": 243,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"OFF_SITE_WAREHOUSE.png": {
+			"frame": {
+				"x": 60,
+				"y": 243,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"OPENFUELSTATION_SAM.png": {
+			"frame": {
+				"x": 213,
+				"y": 243,
+				"w": 21,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 23
+			}
+		},
+		"OPENFUELSTATION_SUP.png": {
+			"frame": {
+				"x": 236,
+				"y": 243,
+				"w": 22,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 23
+			}
+		},
+		"OPENFUELSTATION_WM.png": {
+			"frame": {
+				"x": 307,
+				"y": 243,
+				"w": 21,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 23
+			}
+		},
+		"OPENFUELSTATION_WNM.png": {
+			"frame": {
+				"x": 330,
+				"y": 243,
+				"w": 21,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 23
+			}
+		},
+		"OPTICAL.png": {
+			"frame": {
+				"x": 410,
+				"y": 243,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"OTHER_DC.png": {
+			"frame": {
+				"x": 513,
+				"y": 243,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"PDC.png": {
+			"frame": {
+				"x": 946,
+				"y": 243,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"PET.png": {
+			"frame": {
+				"x": 1,
+				"y": 305,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"PETSTORES.png": {
+			"frame": {
+				"x": 60,
+				"y": 305,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"PHARMACY (1).png": {
+			"frame": {
+				"x": 119,
+				"y": 305,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"PICKUPOPEN.png": {
+			"frame": {
+				"x": 1,
+				"y": 579,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPOPEN_DELIVERYOPEN.png": {
+			"frame": {
+				"x": 75,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYOPEN_SUP.png": {
+			"frame": {
+				"x": 179,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYOPEN_WM.png": {
+			"frame": {
+				"x": 548,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYOPEN_WNM.png": {
+			"frame": {
+				"x": 652,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYPLANNED.png": {
+			"frame": {
+				"x": 756,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYPLANNED_SUP.png": {
+			"frame": {
+				"x": 860,
+				"y": 579,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYPLANNED_WM.png": {
+			"frame": {
+				"x": 1,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_DELIVERYPLANNED_WNM.png": {
+			"frame": {
+				"x": 105,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPOPEN_SUP.png": {
+			"frame": {
+				"x": 209,
+				"y": 683,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPOPEN_WM.png": {
+			"frame": {
+				"x": 283,
+				"y": 683,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPOPEN_WNM.png": {
+			"frame": {
+				"x": 357,
+				"y": 683,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPPLANNED.png": {
+			"frame": {
+				"x": 431,
+				"y": 683,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPPLANNED_DELIVERYOPEN.png": {
+			"frame": {
+				"x": 505,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYOPEN_SUP.png": {
+			"frame": {
+				"x": 609,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYOPEN_WM.png": {
+			"frame": {
+				"x": 713,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYOPEN_WNM.png": {
+			"frame": {
+				"x": 817,
+				"y": 683,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYPLANNED.png": {
+			"frame": {
+				"x": 1,
+				"y": 787,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYPLANNED_SUP.png": {
+			"frame": {
+				"x": 105,
+				"y": 787,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYPLANNED_WM.png": {
+			"frame": {
+				"x": 209,
+				"y": 787,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_DELIVERYPLANNED_WNM.png": {
+			"frame": {
+				"x": 313,
+				"y": 787,
+				"w": 102,
+				"h": 102
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 102
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 102
+			}
+		},
+		"PICKUPPLANNED_SUP.png": {
+			"frame": {
+				"x": 921,
+				"y": 683,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPPLANNED_WM.png": {
+			"frame": {
+				"x": 417,
+				"y": 757,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PICKUPPLANNED_WNM.png": {
+			"frame": {
+				"x": 921,
+				"y": 757,
+				"w": 72,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 72
+			}
+		},
+		"PINK_CRIME.png": {
+			"frame": {
+				"x": 166,
+				"y": 305,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"PMDC.png": {
+			"frame": {
+				"x": 213,
+				"y": 305,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"PREAPPROVED.png": {
+			"frame": {
+				"x": 260,
+				"y": 305,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"PROJECTS.png": {
+			"frame": {
+				"x": 307,
+				"y": 305,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"RDC.png": {
+			"frame": {
+				"x": 354,
+				"y": 305,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"RED_CRIME.png": {
+			"frame": {
+				"x": 401,
+				"y": 305,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"RETURN_CENTER.png": {
+			"frame": {
+				"x": 448,
+				"y": 305,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"SAM.png": {
+			"frame": {
+				"x": 495,
+				"y": 305,
+				"w": 48,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 48
+			}
+		},
+		"SAMS.png": {
+			"frame": {
+				"x": 946,
+				"y": 305,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"SAMS_IMP.png": {
+			"frame": {
+				"x": 283,
+				"y": 579,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"SAMS_XDOC.png": {
+			"frame": {
+				"x": 417,
+				"y": 831,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"SAM_APPROVED.png": {
+			"frame": {
+				"x": 464,
+				"y": 831,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"SG.png": {
+			"frame": {
+				"x": 511,
+				"y": 831,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"SMALL_IND_DRUG.png": {
+			"frame": {
+				"x": 570,
+				"y": 831,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"SMALL_IND_GROCERS.png": {
+			"frame": {
+				"x": 629,
+				"y": 831,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"SOLD.png": {
+			"frame": {
+				"x": 688,
+				"y": 831,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"SPARK.png": {
+			"frame": {
+				"x": 735,
+				"y": 831,
+				"w": 78,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 78,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 78,
+				"h": 84
+			}
+		},
+		"SPLASH_LOGO.png": {
+			"frame": {
+				"x": 1005,
+				"y": 1,
+				"w": 330,
+				"h": 444
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 444
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 444
+			}
+		},
+		"SPORTING_GOODS.png": {
+			"frame": {
+				"x": 973,
+				"y": 447,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"STANDALONEFUEL.png": {
+			"frame": {
+				"x": 1032,
+				"y": 447,
+				"w": 21,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 23
+			}
+		},
+		"SUP.png": {
+			"frame": {
+				"x": 1055,
+				"y": 447,
+				"w": 48,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 48
+			}
+		},
+		"SUP_APPROVED.png": {
+			"frame": {
+				"x": 1105,
+				"y": 447,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"TCH.png": {
+			"frame": {
+				"x": 1152,
+				"y": 447,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"TERMINATED.png": {
+			"frame": {
+				"x": 1211,
+				"y": 447,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"TOYCRAFTHOBBY.png": {
+			"frame": {
+				"x": 1258,
+				"y": 447,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"TRAFFIC_BLUE.png": {
+			"frame": {
+				"x": 973,
+				"y": 506,
+				"w": 39,
+				"h": 39
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 39
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 39
+			}
+		},
+		"TRAFFIC_MAJENTA.png": {
+			"frame": {
+				"x": 1014,
+				"y": 506,
+				"w": 39,
+				"h": 39
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 39
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 39
+			}
+		},
+		"TRAFFIC_ORANGE.png": {
+			"frame": {
+				"x": 1055,
+				"y": 506,
+				"w": 39,
+				"h": 39
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 39
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 39
+			}
+		},
+		"TRAFFIC_RED.png": {
+			"frame": {
+				"x": 1096,
+				"y": 506,
+				"w": 39,
+				"h": 39
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 39
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 39
+			}
+		},
+		"TRAFFIC_YELLOW.png": {
+			"frame": {
+				"x": 1137,
+				"y": 506,
+				"w": 39,
+				"h": 39
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 39
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 39
+			}
+		},
+		"TRUCKSHOP.png": {
+			"frame": {
+				"x": 1178,
+				"y": 506,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"VARTY.png": {
+			"frame": {
+				"x": 1225,
+				"y": 506,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"WM.png": {
+			"frame": {
+				"x": 1284,
+				"y": 506,
+				"w": 48,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 48
+			}
+		},
+		"WM_APPROVED.png": {
+			"frame": {
+				"x": 973,
+				"y": 556,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"WM_IMP.png": {
+			"frame": {
+				"x": 1020,
+				"y": 556,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"WM_XDOCK.png": {
+			"frame": {
+				"x": 1067,
+				"y": 556,
+				"w": 45,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 60
+			}
+		},
+		"WNM.png": {
+			"frame": {
+				"x": 1114,
+				"y": 556,
+				"w": 48,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 48
+			}
+		},
+		"WNM_APPROVED.png": {
+			"frame": {
+				"x": 1284,
+				"y": 556,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"YELLOW_CRIME.png": {
+			"frame": {
+				"x": 330,
+				"y": 603,
+				"w": 45,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 45,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 45
+			}
+		},
+		"administrationOfEconomicPrograms.png": {
+			"frame": {
+				"x": 1317,
+				"y": 447,
+				"w": 19,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 23
+			}
+		},
+		"administrationOfEnvironmentalQualityPrograms.png": {
+			"frame": {
+				"x": 377,
+				"y": 603,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"administrationOfHousingProgramsUrbanPlanning.png": {
+			"frame": {
+				"x": 1032,
+				"y": 472,
+				"w": 18,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 18
+			}
+		},
+		"administrationOfHumanResourcePrograms.png": {
+			"frame": {
+				"x": 403,
+				"y": 603,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"airTransportation.png": {
+			"frame": {
+				"x": 1317,
+				"y": 472,
+				"w": 17,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 18
+			}
+		},
+		"ambulatoryHealthCareServices.png": {
+			"frame": {
+				"x": 429,
+				"y": 603,
+				"w": 24,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 22
+			}
+		},
+		"automatedConsolidationCenter.png": {
+			"frame": {
+				"x": 455,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"couriersAndMessengers.png": {
+			"frame": {
+				"x": 69,
+				"y": 556,
+				"w": 20,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 14
+			}
+		},
+		"creditIntermediationAndRelatedActivities.png": {
+			"frame": {
+				"x": 91,
+				"y": 556,
+				"w": 20,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 16
+			}
+		},
+		"dispatchGrocery.png": {
+			"frame": {
+				"x": 493,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"dispatchTrucking.png": {
+			"frame": {
+				"x": 964,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"distribution.png": {
+			"frame": {
+				"x": 1164,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"eCommFulfillmentServices.png": {
+			"frame": {
+				"x": 1202,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"eCommWhseLogistics.png": {
+			"frame": {
+				"x": 1240,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"ecommWhsejetCom.png": {
+			"frame": {
+				"x": 1278,
+				"y": 603,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"electronicsAndApplianceStores.png": {
+			"frame": {
+				"x": 113,
+				"y": 556,
+				"w": 24,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 16
+			}
+		},
+		"executiveLegislativeGovernmentSupport.png": {
+			"frame": {
+				"x": 1316,
+				"y": 603,
+				"w": 22,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 22
+			}
+		},
+		"fashion.png": {
+			"frame": {
+				"x": 995,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"fedex.png": {
+			"frame": {
+				"x": 69,
+				"y": 492,
+				"w": 15,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 14
+			}
+		},
+		"foodAndBeverageStores.png": {
+			"frame": {
+				"x": 429,
+				"y": 627,
+				"w": 22,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 22
+			}
+		},
+		"foodServicesAndDrinkingPlaces.png": {
+			"frame": {
+				"x": 1002,
+				"y": 627,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"fundsTrustsOtherFinancialVehicles.png": {
+			"frame": {
+				"x": 1028,
+				"y": 627,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"gasolineStations.png": {
+			"frame": {
+				"x": 139,
+				"y": 556,
+				"w": 17,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 18
+			}
+		},
+		"generalMerchandiseStores.png": {
+			"frame": {
+				"x": 158,
+				"y": 556,
+				"w": 21,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 18
+			}
+		},
+		"gmCenterpoint.png": {
+			"frame": {
+				"x": 1033,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"grocery.png": {
+			"frame": {
+				"x": 1071,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"groceryCenterpoint.png": {
+			"frame": {
+				"x": 1109,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"healthAndPersonalCareStores.png": {
+			"frame": {
+				"x": 181,
+				"y": 556,
+				"w": 18,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 16
+			}
+		},
+		"homeOffice.png": {
+			"frame": {
+				"x": 1147,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"hospitals.png": {
+			"frame": {
+				"x": 201,
+				"y": 556,
+				"w": 15,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 15
+			}
+		},
+		"import.png": {
+			"frame": {
+				"x": 1185,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"inboundTransportation.png": {
+			"frame": {
+				"x": 1223,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"insuranceCarriersRelatedActivities.png": {
+			"frame": {
+				"x": 218,
+				"y": 556,
+				"w": 18,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 18
+			}
+		},
+		"jewelry.png": {
+			"frame": {
+				"x": 1261,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"justicePublicOrder.png": {
+			"frame": {
+				"x": 1054,
+				"y": 627,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"maintenanceGrocery.png": {
+			"frame": {
+				"x": 1299,
+				"y": 657,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"maintenanceTrucking.png": {
+			"frame": {
+				"x": 995,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"miscellaneousStoreRetailers.png": {
+			"frame": {
+				"x": 238,
+				"y": 556,
+				"w": 20,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 20
+			}
+		},
+		"monetaryAuthoritiesCentralBank.png": {
+			"frame": {
+				"x": 260,
+				"y": 556,
+				"w": 20,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 21
+			}
+		},
+		"nationalSecurityAndInternationalAffairs.png": {
+			"frame": {
+				"x": 1080,
+				"y": 627,
+				"w": 18,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 22
+			}
+		},
+		"nursingResidentialCareFacilities.png": {
+			"frame": {
+				"x": 282,
+				"y": 556,
+				"w": 16,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 18
+			}
+		},
+		"otherSupport.png": {
+			"frame": {
+				"x": 1033,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"personalAndLaundryServices.png": {
+			"frame": {
+				"x": 300,
+				"y": 556,
+				"w": 16,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 20
+			}
+		},
+		"pharmacy.png": {
+			"frame": {
+				"x": 1071,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"pmdcNonPrint.png": {
+			"frame": {
+				"x": 1109,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"pmdcPrint.png": {
+			"frame": {
+				"x": 1147,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"postalService.png": {
+			"frame": {
+				"x": 318,
+				"y": 556,
+				"w": 20,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 16
+			}
+		},
+		"professionalScientificTechnicalServices.png": {
+			"frame": {
+				"x": 1100,
+				"y": 627,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"railTransportation.png": {
+			"frame": {
+				"x": 1126,
+				"y": 627,
+				"w": 21,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 21,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 21,
+				"h": 20
+			}
+		},
+		"regOperationsCenter.png": {
+			"frame": {
+				"x": 1185,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"regional.png": {
+			"frame": {
+				"x": 1223,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"rentalLeasingServices.png": {
+			"frame": {
+				"x": 1316,
+				"y": 627,
+				"w": 24,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 24
+			}
+		},
+		"repairAndMaintenance.png": {
+			"frame": {
+				"x": 1,
+				"y": 653,
+				"w": 20,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 21
+			}
+		},
+		"securitiesCommodityContracts.png": {
+			"frame": {
+				"x": 23,
+				"y": 653,
+				"w": 19,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 18
+			}
+		},
+		"spaceResearchAndTechnology.png": {
+			"frame": {
+				"x": 44,
+				"y": 653,
+				"w": 20,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 20
+			}
+		},
+		"sportingGoodsHobbyMusicalInstrumentBookStores.png": {
+			"frame": {
+				"x": 531,
+				"y": 603,
+				"w": 14,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 23
+			}
+		},
+		"support.png": {
+			"frame": {
+				"x": 1261,
+				"y": 711,
+				"w": 36,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 52
+			}
+		},
+		"transitAndGroundPassengerTransportation.png": {
+			"frame": {
+				"x": 283,
+				"y": 653,
+				"w": 20,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 16
+			}
+		},
+		"truckTransportation.png": {
+			"frame": {
+				"x": 305,
+				"y": 653,
+				"w": 22,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 22,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 22,
+				"h": 16
+			}
+		},
+		"ups.png": {
+			"frame": {
+				"x": 329,
+				"y": 653,
+				"w": 18,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 20
+			}
+		},
+		"waterTransportation.png": {
+			"frame": {
+				"x": 1164,
+				"y": 556,
+				"w": 10,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 15
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1341,
+			"h": 916
+		},
+		"scale": "1"
+	}
+}
